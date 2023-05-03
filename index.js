@@ -14,6 +14,12 @@ app.get('/', (req, res) => {
     res.send(chefWithRecipe)
 })
 
+app.get('/chef/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const singleChefWithRecipe = chefWithRecipe.find(singleChef => singleChef._id === id);
+    res.send(singleChefWithRecipe);
+})
+
 app.listen(port, () => {
     console.log(`chef data is loading from port ${port}`);
 })
