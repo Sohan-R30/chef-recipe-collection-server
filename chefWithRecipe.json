@@ -31,7 +31,7 @@
                     "1/2 tsp. black pepper",
                     "2 tbsp. olive oil"
                 ],
-                "cooking method": [
+                "cookingMethod": [
                     "Preheat the oven to 400°F.",
                     "Trim the ends off the Brussels sprouts and cut them in half.",
                     "Toss the Brussels sprouts with the olive oil, kosher salt, and black pepper.",
@@ -48,7 +48,7 @@
                     " 2 eggs",
                     "2 tsp. vanilla extract"
                 ],
-                "cooking method": [
+                "cookingMethod": [
                     "Preheat the oven to 375°F.",
                     "In a large mixing bowl, cream together the butter, white sugar, and brown sugar until light and fluffy.",
                     "Beat in the eggs and vanilla extract.",
@@ -102,14 +102,14 @@
                 "rating": 4.5
               },
               {
-                "name": "Beef Stroganoff",
+                "recipeName": "Beef Stroganoff",
                 "ingredients": [
                   "1 pound beef sirloin, sliced into thin strips",
                   "Kosher salt and freshly ground black pepper",
                   "2 tablespoons vegetable oil",
                   "2 tablespoons unsalted butter"
                 ],
-                "method": [
+                "cookingMethod": [
                     "Season the beef with salt and pepper.",
                     "Heat the oil in a large skillet over high heat.",
                     "Add the beef and cook until browned, about 3-4 minutes",
